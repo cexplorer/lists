@@ -13,3 +13,5 @@ Json-valid simple array with pool_id (bech32)
 ## Own list
 
 If you want create your own list, it is possible. Log in cexplorer.io, go to "Content console" and create your own list there. You can add manually pool which you need to have there or insert there syncing url.
+
+More: https://github.com/cexplorer/cexplorer.io/blob/main/doc/lists.md
