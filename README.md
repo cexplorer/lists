@@ -1,17 +1,15 @@
 # Lists
 
-Lists creation is very universal. You can group your friends and have all in one url available or you can use it for listing alliances on cexplorer.io.
+Lists creation is very universal. You can group your friends and have all in one url available or you can use it for listing alliances on cexplorer.io (https://cexplorer.io/list)
 
 ## Add your pool into list
 
-Simply create PR into a selected list.
+Simply create PR into a selected list. Please provide some evidence/info why you are adding selected pool or so.
 
 ## File structure
 
 Json-valid simple array with pool_id (bech32)
 
-## Automatization
+## Own list
 
-Go to "Edit" section of list and you can see there "External URL". Simply add your url to json file there and we will once a day sync and update diffs.
-
-Structure of json file is here: [https://github.com/cardanians/cexplorer.io/blob/main/examples/list_testnet.json](https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/list_testnet.json) (its just simple json array with pool IDs)
+If you want create your own list, it is possible. Log in cexplorer.io, go to "Content console" and create your own list there. You can add manually pool which you need to have there or insert there syncing url.
